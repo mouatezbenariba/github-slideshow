@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+There is no God but Allah!
 Use the left arrow to go back!
